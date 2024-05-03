@@ -16,7 +16,7 @@ PyTorch (> 1.0)
 python downloaddata.py
 ```
 2. Generate perturbed training data
-The code for generating perturbed data can be accessible in [Delusive-Adversary](https://github.com/TLMichael/Delusive-Adversary), [DeepConfuse](https://github.com/kingfengji/DeepConfuse), [Unlearnable-"Examples](https://github.com/HanxunH/Unlearnable-Examples).
+The code for generating perturbed data can be accessible in [Delusive-Adversary](https://github.com/TLMichael/Delusive-Adversary), [DeepConfuse](https://github.com/kingfengji/DeepConfuse), [Unlearnable-Examples](https://github.com/HanxunH/Unlearnable-Examples).
 
 ## Train
 ```console
