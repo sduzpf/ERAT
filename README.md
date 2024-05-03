@@ -1,7 +1,7 @@
 
 # Effective and Robust Adversarial Training Against Data and Label Corruptions
 
-This is the official PyTorch repository for the implementation of ERAT
+This is the official PyTorch repository for the implementation of ERAT.
 
 ## Requirements
 Python3
