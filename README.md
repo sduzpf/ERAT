@@ -7,8 +7,10 @@ This is the official PyTorch repository for the implementation of ERAT
 
 ## Requirements
 Python3
+
 PyTorch (> 1.0)
 
+## Prepare datasets
 1. Download datasets
 ```console
 python downloaddata.py
