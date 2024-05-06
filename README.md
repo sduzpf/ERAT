@@ -23,12 +23,12 @@ python Dual_main.py
 
 If you find this code helpful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517640):
 ```
-@ARTICLE{10517640,
-  title={Effective and Robust Adversarial Training Against Data and Label Corruptions}, 
+@article{zhang2024effective,
+  title={Effective and Robust Adversarial Training Against Data and Label Corruptions},
   author={Zhang, Peng-Fei and Huang, Zi and Xu, Xin-Shun and Bai, Guangdong},
-  journal={IEEE Transactions on Multimedia}, 
+  journal={IEEE Transactions on Multimedia},
   year={2024},
-  pages={1-12},
+  publisher={IEEE}
 }
 ```
 
