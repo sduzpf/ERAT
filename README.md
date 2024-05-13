@@ -1,7 +1,7 @@
 
 # Effective and Robust Adversarial Training Against Data and Label Corruptions
 
-This is the official PyTorch repository for the implementation of [ERAT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517640).
+This is the official PyTorch repository for the implementation of [ERAT](https://arxiv.org/abs/2405.04191).
 
 ## Requirements
 Python3
@@ -21,7 +21,7 @@ The code for generating perturbed data can be accessible in [Delusive-Adversary]
 python Dual_main.py
 ```
 
-If you find this code helpful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517640):
+If you find this code helpful for your research, please consider citing our [paper](https://arxiv.org/abs/2405.04191):
 ```
 @article{zhang2024effective,
   title={Effective and Robust Adversarial Training Against Data and Label Corruptions},
